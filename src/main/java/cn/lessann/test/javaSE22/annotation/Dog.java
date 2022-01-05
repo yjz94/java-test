@@ -1,11 +1,8 @@
 package cn.lessann.test.javaSE22.annotation;
 
+@DogAnnotation(name = "旺财", sex = "公", age = 3)
 public class Dog {
-
-    @DogAnnotation(value = "旺财", sex = "", age = 0)
     private String name;
-
-    @DogAnnotation(value = "旺财")
     private String sex;
     private Integer age;
 
