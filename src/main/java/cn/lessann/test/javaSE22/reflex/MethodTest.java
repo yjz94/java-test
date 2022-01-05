@@ -1,4 +1,6 @@
-package cn.lessann.test.javaSE22;
+package cn.lessann.test.javaSE22.reflex;
+
+import cn.lessann.test.javaSE22.Student;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
